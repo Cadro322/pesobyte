@@ -4,7 +4,7 @@ Pesobyte integration/staging tree
 http://www.pesobyte.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Pesobyte Developers
+Copyright (c) 2023-2023 Pesobyte Developers
 
 What is Pesobyte?
 ----------------
