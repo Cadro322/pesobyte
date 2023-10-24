@@ -1,0 +1,9 @@
+Building Pesobyte
+
+See doc/readme-qt.rst for instructions on building Pesobyte-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Pesobyte.
+
+See doc/build-*.txt for instructions on building pesobyted,
+the intended-for-services, no-graphical-interface, reference
+implementation of Pesobyte.
